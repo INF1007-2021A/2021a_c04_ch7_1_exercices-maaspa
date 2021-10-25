@@ -6,6 +6,16 @@
 import random
 
 def arbre():
+    pendown
+    forward(x)
+    right(20)
+    forward(x/2)
+    right(180)
+    forward(x/2)
+    right(160)
+    
+    
+    
 # TODO: Définissez vos fonction ici
 def ellipsoide(A,B,C,masse_volumique):
     volume = (4/3 * π * A * B * C)
